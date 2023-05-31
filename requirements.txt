@@ -1,0 +1,19 @@
+# google
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+
+# webdriver
+selenium
+chromedriver-autoinstaller
+
+# parse webpage source
+pyquery
+beautifulsoup4
+
+# jupyter
+jupyter
+
+# general
+tqdm
+
